@@ -1,0 +1,3 @@
+[submodule "react-submodule-lib"]
+	path = react-submodule-lib
+	url = https://github.com/dacanizares/react-submodule-lib.git
